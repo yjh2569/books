@@ -18,6 +18,7 @@
 * OR 게이트 래치(latch)
   * OR 게이트의 출력을 입력에 묶는 방식의 피드백을 이용해 정보를 기억할 수 있다. 
   * 가장 기본적인 저장 회로이지만 한 번 출력을 1로 만들면 다시 0으로 바꿀 수 없다.
+
 ![OR_gate_latch](https://user-images.githubusercontent.com/70595250/147093452-4ce3a884-e669-46cb-93c6-a254c56a05d5.PNG)
 * AND-OR 게이트 래치
   * OR 게이트 래치에 재설정(reset) 기능을 추가한 래치이다.
@@ -27,6 +28,7 @@
   * reset의 경우 인버터를 적용해 반전시키는데(이를 reset bar라고 부른다.), 이로 인해 액티브 로우가 된다. 
   * reset이 로우이면 reset bar가 하이(거짓)이므로 OR 게이트의 출력은 OR 게이터의 입력에 피드백된다. 즉, 원래 저장된 값을 계속 유지한다.
   * reset이 하이이면 reset bar가 로우(참)이므로 피드백이 깨지고 출력이 0이 된다.
+
 ![AND_OR_gate_latch](https://user-images.githubusercontent.com/70595250/147093579-91a6d960-2ccf-4efa-9616-e0140d5352fa.PNG)
 * S-R 래치
   * set-reset을 뜻하며, 액티브 로우 입력을 받고 보수 출력(Q, Q')을 제공한다.
@@ -34,6 +36,7 @@
   * NAND 게이트를 대칭으로 배치하여 set과 reset 신호의 지연 시간이 거의 비슷하다.
   * set과 reset이 모두 참인 경우 보수 출력이 모두 참이 나와 이런 입력은 사용하지 않는다.
   * set과 reset이 모두 거짓인 경우 전파 지연 시간에 따라 출력이 달라져 결과를 예측할 수 없다.
+
 ![S-R_latch](https://user-images.githubusercontent.com/70595250/147094246-01703e56-1084-4667-8efd-96c1249ce55d.PNG)
 
 ### 게이트가 있는 래치
