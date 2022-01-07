@@ -60,33 +60,48 @@ public static Boolean valueOf(boolean b) {
 ## 정적 팩토리 메서드에 흔히 사용하는 명명 방식
 
 * from : 매개변수를 하나 받아서 해당 타입의 인스턴스를 반환하는 형변환 메서드
-    
-    Date d = Date.from(instant);
+
+```
+Date d = Date.from(instant);
+```
 
 * of : 매개변수를 여러 개 받아서 적절한 타입의 인스턴스를 반환하는 집계 메서드
-    
-    Set<Rank> faceCards = EnumSet.of(Jack, QUEEN, KING);
+
+```
+Set<Rank> faceCards = EnumSet.of(Jack, QUEEN, KING);
+```
 
 * valueOf : from과 of의 더 자세한 버전
 
-    BigInteger prime = BigInteger.valueOf(Integer.MAX_VALUE);
+```
+BigInteger prime = BigInteger.valueOf(Integer.MAX_VALUE);
+```
 
 * instance, getInstance : 매개변수로 명시한 인스턴스를 반환하지만, 같은 인스턴스임을 보장하지는 않는다.
-    
-    StackWalker luke = StackWalker.getInstance(options);
+```   
+StackWalker luke = StackWalker.getInstance(options);
+```
 
 * create, newInstance : instance, getInstance와 같으나 매번 새로운 인스턴스를 생성해 반환한다.
 
-    Object newArray = Array.newInstance(classObject, arrayLen);
-    
+```
+Object newArray = Array.newInstance(classObject, arrayLen);
+```
+
 * getType : getInstance와 같으나, 생성할 클래스가 아닌 다른 클래스에 팩토리 메서드를 정의할 때 쓴다. Type은 팩토리 메서드가 반환할 객체의 타입이다.
 
-    FileStore fs = Files.getFileStore(path)
-    
+```
+FileStore fs = Files.getFileStore(path)
+```
+
 * newType : newInstace와 같으나, 생성할 클래스가 아닌 다른 클래스에 팩토리 메서드를 정의할 때 쓴다. Type은 팩토리 메서드가 반환할 객체의 타입이다.
 
-    BufferedReader br = Files.newBufferedReader(path);
-    
+```
+BufferedReader br = Files.newBufferedReader(path);
+```
+
 * type : getType과 newType의 간결한 버전
 
-    List<Comment> litany = Collections.list(legacyLitany);
+```
+List<Comment> litany = Collections.list(legacyLitany);
+```
