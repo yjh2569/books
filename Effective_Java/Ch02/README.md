@@ -5,3 +5,4 @@
 * [아이템 03. private 생성자나 열거 타입으로 싱글턴임을 보증하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch02/Item03.md)
 * [아이템 04. 인스턴스화를 막으려거든 private 생성자를 사용하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch02/Item04.md)
 * [아이템 05. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch02/Item05.md)
+* [아이템 06. 불필요한 객체 생성을 피하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch02/Item06.md)
