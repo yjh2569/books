@@ -8,3 +8,4 @@
 * [아이템 06. 불필요한 객체 생성을 피하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch02/Item06.md)
 * [아이템 07. 다 쓴 객체 참조를 해제하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch02/Item07.md)
 * [아이템 08. finalizer와 cleaner 사용을 피하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch02/Item08.md)
+* [아이템 09. try-finally보다는 try-with-resources를 사용하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch02/Item09.md)
