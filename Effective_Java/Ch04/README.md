@@ -6,3 +6,6 @@
 * [아이템 18. 상속보다는 컴포지션을 사용하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch04/Item18.md)
 * [아이템 19. 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch04/Item19.md)
 * [아이템 20. 추상 클래스보다는 인터페이스를 우선하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch04/Item20.md)
+* [아이템 21. 인터페이스는 구현하는 쪽을 생각해 설계하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch04/Item21.md)
+
+
