@@ -8,5 +8,5 @@
 * [아이템 20. 추상 클래스보다는 인터페이스를 우선하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch04/Item20.md)
 * [아이템 21. 인터페이스는 구현하는 쪽을 생각해 설계하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch04/Item21.md)
 * [아이템 22. 인터페이스는 타입을 정의하는 용도로만 사용하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch04/Item22.md)
-
+* [아이템 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch04/Item23.md)
 
