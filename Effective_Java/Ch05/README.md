@@ -4,3 +4,4 @@
 * [아이템 27. 비검사 경고를 제거하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch05/Item27.md)
 * [아이템 28. 배열보다는 리스트를 사용하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch05/Item28.md)
 * [아이템 29. 이왕이면 제네릭 타입으로 만들라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch05/Item29.md)
+* [아이템 30. 이왕이면 제네릭 메서드로 만들라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch05/Item30.md)
