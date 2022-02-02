@@ -6,3 +6,4 @@
 * [아이템 29. 이왕이면 제네릭 타입으로 만들라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch05/Item29.md)
 * [아이템 30. 이왕이면 제네릭 메서드로 만들라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch05/Item30.md)
 * [아이템 31. 한정적 와일드카드를 사용해 API 유연성을 높이라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch05/Item31.md)
+* [아이템 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch05/Item32.md)
