@@ -6,3 +6,4 @@
 ### [3장 : 모든 객체의 공통 메서드](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch03)
 ### [4장 : 클래스와 인터페이스](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch04)
 ### [5장 : 제네릭](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch05)
+### [6장 : 열거 타입과 애너테이션](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch06)
