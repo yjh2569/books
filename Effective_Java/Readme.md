@@ -9,3 +9,4 @@
 ### [6장 : 열거 타입과 애너테이션](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch06)
 ### [7장 : 람다와 스트림](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch07)
 ### [8장 : 메서드](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch08)
+### [9장 : 일반적인 프로그래밍 원칙](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch09)
