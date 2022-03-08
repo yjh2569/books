@@ -8,3 +8,4 @@
 * [아이템 62. 다른 타입이 적절하다면 문자열 사용을 피하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch09/Item62.md)
 * [아이템 63. 문자열 연결은 느리니 주의하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch09/Item63.md)
 * [아이템 64. 객체는 인터페이스를 사용해 참조하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch09/Item64.md)
+* [아이템 65. 리플렉션보다는 인터페이스를 사용하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch09/Item65.md)
