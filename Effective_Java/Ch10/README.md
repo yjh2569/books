@@ -5,3 +5,4 @@
 * [아이템 71. 필요 없는 검사 예외 사용은 피하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch10/Item71.md)
 * [아이템 72. 표준 예외를 사용하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch10/Item72.md)
 * [아이템 73. 추상화 수준에 맞는 예외를 던져라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch10/Item73.md)
+* [아이템 74. 메서드가 던지는 모든 예외를 문서화하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch10/Item74.md)
