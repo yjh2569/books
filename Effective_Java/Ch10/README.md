@@ -7,3 +7,4 @@
 * [아이템 73. 추상화 수준에 맞는 예외를 던져라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch10/Item73.md)
 * [아이템 74. 메서드가 던지는 모든 예외를 문서화하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch10/Item74.md)
 * [아이템 75. 예외의 상세 메시지에 실패 관련 정보를 담으라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch10/Item75.md)
+* [아이템 76. 가능한 한 실패 원자적으로 만들라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch10/Item76.md)
