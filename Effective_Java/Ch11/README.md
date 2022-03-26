@@ -6,3 +6,4 @@
 * [아이템 81. wait와 notify보다는 동시성 유틸리티를 애용하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch11/Item81.md)
 * [아이템 82. 스레드 안전성 수준을 문서화하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch11/Item82.md)
 * [아이템 83. 지연 초기화는 신중히 사용하라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch11/Item83.md)
+* [아이템 84. 프로그램의 동작을 스레드 스케줄러에 기대지 말라](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch11/Item84.md)
