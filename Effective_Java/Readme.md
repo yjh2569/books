@@ -12,3 +12,4 @@
 ### [9장 : 일반적인 프로그래밍 원칙](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch09)
 ### [10장 : 예외](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch10)
 ### [11장 : 동시성](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch11)
+### [12장 : 직렬화](https://github.com/yjh2569/books/tree/main/Effective_Java/Ch12)
