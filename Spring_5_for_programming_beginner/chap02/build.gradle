@@ -1,0 +1,23 @@
+apply plugin: 'java' // gradle java 플러그인 적용
+
+// 소스와 컴파일 결과를 1.8 버전에 맞춘다.
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+// 소스 코드 인코딩으로 UTF-8을 사용한다.
+compileJava.options.encoding = "UTF-8"
+
+// 의존 모듈을 메이븐 중앙 리포지토리에서 다운로드한다.
+repositories {
+	mavenCentral()
+}
+
+// spring-context 모듈에 대한 의존을 설정한다.
+dependencies {
+	implementation 'org.springframework:spring-context:5.0.2.RELEASE'
+}
+
+// gradle wrapper 설정
+// 소스를 공유할 때 그레이들 설치 없이 그레이들 명령어를 실행할 수 있는 래퍼 생성
+wrapper {
+	gradleVersion = '4.4'
+}
