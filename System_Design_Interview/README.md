@@ -4,3 +4,4 @@
 
 ### [1장 : 사용자 수에 따른 규모 확장](https://github.com/yjh2569/books/tree/main/System_Design_Interview/Ch01)
 ### [2장 : 개략적인 규모 추정](https://github.com/yjh2569/books/tree/main/System_Design_Interview/Ch02)
+### [3장 : 시스템 설계 면접 공략](https://github.com/yjh2569/books/tree/main/System_Design_Interview/Ch03)
