@@ -6,3 +6,4 @@
 ### [2장 : 개략적인 규모 추정](https://github.com/yjh2569/books/tree/main/System_Design_Interview/Ch02)
 ### [3장 : 시스템 설계 면접 공략](https://github.com/yjh2569/books/tree/main/System_Design_Interview/Ch03)
 ### [4장 : 처리율 제한 장치의 설계](https://github.com/yjh2569/books/tree/main/System_Design_Interview/Ch04)
+### [5장 : 안정 해시 설계](https://github.com/yjh2569/books/tree/main/System_Design_Interview/Ch05)
